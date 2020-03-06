@@ -18,6 +18,10 @@
     list-style-type: none;
 }
 
+li{
+    word-wrap: break-word;
+}
+
 h1{
     text-align: center;
 }
