@@ -1,0 +1,46 @@
+.conteiner{
+    border: solid 1px;
+    border-radius: 10px;
+    width: 700px;
+    min-height: 370px;
+    position: relative;
+    left: 330px;
+    color: dimgrey;
+}
+
+.lista, .lista2{
+    list-style-type: none;
+}
+
+h1{
+    text-align: center;
+}
+
+#txt{
+    width: 400px;
+    position: relative;
+    left: 40px;
+}
+
+#btn{
+    position: relative;
+    left: 70px;
+    background-color: lightgreen;
+}
+
+label{
+    font-weight: bold;
+    font-size: large;
+}
+
+form{
+    position: relative;
+    left: 10px;
+}
+
+#btex{
+    background-color: red;
+    font-weight: bold;
+    position: relative;
+    left: 50px;
+}
